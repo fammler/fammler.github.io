@@ -5,7 +5,7 @@ Vielen Dank, dass Sie sich für "Meier - The Dice Game" entschieden haben. Der S
 1. Verantwortlicher
 Verantwortlicher für die Datenverarbeitung im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 
-Fabian Mueller
+Fabian Mueller  
 fabian.mueller.dev@gmail.com
 
 2. Erhebung und Verarbeitung personenbezogener Daten
@@ -47,8 +47,8 @@ Wir behalten uns vor, diese Datenschutzerklärung anzupassen, um sie an geänder
 8. Kontakt
 Bei Fragen zur Erhebung, Verarbeitung oder Nutzung Ihrer personenbezogenen Daten, bei Auskünften, Berichtigung, Sperrung oder Löschung von Daten sowie Widerruf erteilter Einwilligungen wenden Sie sich bitte an:
 
-Fabian Mueller
-fabian.mueller.dev@gmail.com
+Fabian Mueller  
+fabian.mueller.dev@gmail.com  
 Stand: Mai, 2024
 
 Vielen Dank für Ihr Vertrauen und viel Spaß beim Spielen!
