@@ -1,10 +1,9 @@
-# fammler
-
+# Hey there! :)
 Welcome to my personal GitHub.io page!  
 Here you can find further information to my projects.  
 
 Cheers
-fammler
+Fabian
 
 # Projects
 ## Meier - the dice game
