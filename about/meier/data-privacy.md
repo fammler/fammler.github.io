@@ -6,7 +6,7 @@ Vielen Dank, dass Sie sich für "Meier - The Dice Game" entschieden haben. Der S
 Verantwortlicher für die Datenverarbeitung im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:
 
 Fabian Mueller  
-fammler.dev@gmail.com
+Mail: fammler.dev [at] gmail.com
 
 2. Erhebung und Verarbeitung personenbezogener Daten
 Die Nutzung unserer App ist grundsätzlich ohne Angabe personenbezogener Daten möglich. Wir erheben und verarbeiten personenbezogene Daten nur, soweit dies im Rahmen der Nutzung der App erforderlich ist. Im Folgenden erläutern wir, welche Daten wir erheben und wie diese verwendet werden:
@@ -48,7 +48,7 @@ Wir behalten uns vor, diese Datenschutzerklärung anzupassen, um sie an geänder
 Bei Fragen zur Erhebung, Verarbeitung oder Nutzung Ihrer personenbezogenen Daten, bei Auskünften, Berichtigung, Sperrung oder Löschung von Daten sowie Widerruf erteilter Einwilligungen wenden Sie sich bitte an:
 
 Fabian Mueller  
-fammler.dev@gmail.com  
+Mail: fammler.dev [at] gmail.com  
 Stand: Mai, 2024
 
 Vielen Dank für Ihr Vertrauen und viel Spaß beim Spielen!
